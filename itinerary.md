@@ -10,9 +10,9 @@ permalink: /itinerary/
 </ul>
 <h3>Saturday, July 2<sup>nd</sup>, 2016</h3>
 <ul>
- 	<li><strong><a href="http://www.niagarafallsstatepark.com/" target="_blank">Niagara Falls State Park</a></strong></li>
+ 	<li><strong><a href="http://www.niagarafallsstatepark.com/">Niagara Falls State Park</a></strong></li>
 </ul>
-Experience the magnificent Niagara Falls by getting on the <a href="http://www.maidofthemist.com/" target="_blank">Maid of the Mist</a> boat ride and venturing through the <a href="http://www.niagarafallsstatepark.com/cave-of-the-winds.aspx" target="_blank">Cave of the Winds</a>.
+Experience the magnificent Niagara Falls by getting on the <a href="http://www.maidofthemist.com/">Maid of the Mist</a> boat ride and venturing through the <a href="http://www.niagarafallsstatepark.com/cave-of-the-winds.aspx">Cave of the Winds</a>.
 <strong>Attire:</strong> Get ready to walk, hike, and get wet!
 <strong>Cost: </strong>Maid of the Mist - $18.25; Cave of the Winds - $14.00
 <strong>Time:</strong>
@@ -33,16 +33,16 @@ Address:</strong> 739 Elmwood Ave., Buffalo, NY 14222
 
 After lunch at Sato, bus will drop everyone off at the two hotels listed above.
 <ul>
- 	<li><strong>Enjoy <a href="https://www.canalsidebuffalo.com/" target="_blank">Canalside</a> Freestyle </strong></li>
+ 	<li><strong>Enjoy <a href="https://www.canalsidebuffalo.com/">Canalside</a> Freestyle </strong></li>
 </ul>
-There is something for everyone at the Canalside: <a href="http://www.bfloharborkayak.com." target="_blank">kayaking</a>, <a href="http://www.waterbikesofbuffalo.com" target="_blank">water bikes</a>, food and drinks, views of the Buffalo River and Lake Erie, and more.
+There is something for everyone at the Canalside: <a href="http://www.bfloharborkayak.com.">kayaking</a>, <a href="http://www.waterbikesofbuffalo.com">water bikes</a>, food and drinks, views of the Buffalo River and Lake Erie, and more.
 <ul>
- 	<li><strong>Dinner at <a href="http://pearlstreetgrill.com/" target="_blank">Pearl Street Grill &amp; Brewery</a></strong></li>
+ 	<li><strong>Dinner at <a href="http://pearlstreetgrill.com/">Pearl Street Grill &amp; Brewery</a></strong></li>
 </ul>
 <strong>Time:</strong> 6:00pm
 <strong>Address:</strong> 76 Pearl St., Buffalo, NY 14202
 <ul>
- 	<li><strong><a href="http://www.buffaloharborcruises.com/schedule/" target="_blank">Miss Buffalo Boat Ride</a></strong></li>
+ 	<li><strong><a href="http://www.buffaloharborcruises.com/schedule/">Miss Buffalo Boat Ride</a></strong></li>
 </ul>
 Experience the sunset and the beautiful Buffalo waterfront from aboard the 35-year-old Miss Buffalo II.
 
@@ -52,21 +52,21 @@ Cost: </strong>$26
 <strong>Address:</strong> Erie Basin Marina, 329 Erie St., Buffalo, NY 14202
 <h3>Sunday, July 3<sup>rd</sup>, 2016</h3>
 <ul>
- 	<li><strong><a href="http://www.darwinmartinhouse.org/home.cfm" target="_blank">Tour of Frank Lloyd Wright's Darwin Martin House Complex</a></strong></li>
+ 	<li><strong><a href="http://www.darwinmartinhouse.org/home.cfm">Tour of Frank Lloyd Wright's Darwin Martin House Complex</a></strong></li>
 </ul>
 The amazing and informative tour introduces visitors to the greatest American architect of all time, Frank Lloyd Wright and his innovative design concepts.
 <strong>Cost: </strong>$19
 <strong>Time:</strong> 10:00am - 11:30am
 <strong>Address:</strong> 125 Jewett Pkwy., Buffalo, NY 14214
 <ul>
- 	<li><strong>Lunch at <a href="http://www.duffswings.com/" target="_blank">Duff's Famous Wings</a></strong></li>
+ 	<li><strong>Lunch at <a href="http://www.duffswings.com/">Duff's Famous Wings</a></strong></li>
 </ul>
 No one can leave Buffalo without having some Buffalo chicken wings (or as Buffalonians call them: wings)!
 
 <strong>Time: </strong>12:00pm
 <strong>Address:</strong> 3651 Sheridan Dr., Buffalo, NY 14226
 <ul>
- 	<li><strong><a href="http://www.buffalopedaltours.com/" target="_blank">Buffalo Pedal Tour</a></strong></li>
+ 	<li><strong><a href="http://www.buffalopedaltours.com/">Buffalo Pedal Tour</a></strong></li>
 </ul>
 Explore the city of Buffalo on a <a href="http://chenchich.us/wp-content/uploads/2015/09/IMG_4667.jpg">15-rider green pedal-powered party bus</a>. We are hitting the most stunning architectural sites, the hottest restaurants, and the coolest bars all across downtown Buffalo.
 <strong>Cost: </strong>$25.00
@@ -81,7 +81,7 @@ Pre-celebrate the Fourth of July with some favorite American pastimes: a Buffalo
 <strong>Address:</strong> Coca-Cola Field One James D., Griffin St., Buffalo, NY 14203
 <h3>Monday, July 4<sup>th</sup>, 2016</h3>
 <ul>
- 	<li><strong><a href="http://nysparks.com/parks/79/details.aspx" target="_blank">Letchworth State Park Barbecue</a></strong></li>
+ 	<li><strong><a href="http://nysparks.com/parks/79/details.aspx">Letchworth State Park Barbecue</a></strong></li>
 </ul>
 Enjoy a day of hiking, friends, and barbecue at Letchworth State Park, known as the "Grand Canyon of the East."
 <strong>Attire:</strong> Wearing a pair of good hiking shoes is a must!
