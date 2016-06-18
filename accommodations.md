@@ -4,6 +4,8 @@ title: Accommodations
 permalink: /accommodations/
 ---
 
+<img src="/images/accommodations.jpg" style="width: 100%; border-radius: 5px;">
+
 A block of rooms has been set aside at the Holiday Inn Express &amp; Suites Buffalo Downtown in Buffalo, NY. These rooms can be reserved by calling (716) 854-5500 before May 29, 2016 and by mentioning the <strong>Chen/Banchich Wedding</strong>.
 
 <strong>Holiday Inn Express &amp; Suites Buffalo Downtown </strong>(<a href="http://www.ihg.com/holidayinnexpress/hotels/us/en/buffalo/bufms/hoteldetail" target="_blank">Website</a>)
