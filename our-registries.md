@@ -2,7 +2,7 @@
 layout: page
 title: Our Registries
 permalink: /our-registries/
-lang: en
+lang: English
 ref: registries
 ---
 

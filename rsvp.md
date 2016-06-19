@@ -2,7 +2,7 @@
 layout: page
 title: R.S.V.P.
 permalink: /rsvp/
-lang: en
+lang: English
 ref: rsvp
 ---
 

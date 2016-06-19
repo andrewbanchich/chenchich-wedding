@@ -2,7 +2,7 @@
 layout: page
 title: The Big Day
 permalink: /the-big-day/
-lang: en
+lang: English
 ref: thebigday
 ---
 

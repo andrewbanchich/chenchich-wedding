@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 permalink: /contact-us/
-lang: en
+lang: English
 ref: contact
 ---
 

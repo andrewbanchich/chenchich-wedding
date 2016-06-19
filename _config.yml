@@ -19,7 +19,7 @@ markdown: kramdown
 
 # Multilingual config
 t:
-  en:
+  English:
     home:
       name: "Home"
       url: "/"
@@ -50,7 +50,7 @@ t:
     contact:
       name: "Contact Us"
       url: "/contact-us/"
-  zh:
+  中文 (台灣):
     home:
       name: "首頁"
       url: "/首頁/"

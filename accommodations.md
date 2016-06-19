@@ -2,7 +2,7 @@
 layout: page
 title: Accommodations
 permalink: /accommodations/
-lang: en
+lang: English
 ref: accommodations
 ---
 

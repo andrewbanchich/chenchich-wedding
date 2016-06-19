@@ -2,7 +2,7 @@
 layout: page
 title: Taiwan/Hong Kong 2017
 permalink: /taiwan-hong-kong-2017/
-lang: en
+lang: English
 ref: taiwantrip
 ---
 

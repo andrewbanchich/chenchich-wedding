@@ -2,7 +2,7 @@
 layout: page
 title: Wedding Week
 permalink: /wedding-week/
-lang: en
+lang: English
 ref: weddingweek
 ---
 

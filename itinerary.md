@@ -2,7 +2,7 @@
 layout: page
 title: Itinerary
 permalink: /itinerary/
-lang: en
+lang: English
 ref: itinerary
 ---
 

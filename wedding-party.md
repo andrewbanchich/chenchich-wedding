@@ -2,7 +2,7 @@
 layout: page
 title: Wedding Party
 permalink: /wedding-party/
-lang: en
+lang: English
 ref: weddingparty
 ---
 
