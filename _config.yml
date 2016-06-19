@@ -47,6 +47,9 @@ t:
     taiwantrip:
       name: "Taiwan/Hong Kong 2017"
       url: "/taiwan-hong-kong-2017/"
+    contact:
+      name: "Contact Us"
+      url: "/contact-us/"
   zh:
     home:
       name: "首頁"
@@ -75,3 +78,6 @@ t:
     taiwantrip:
       name: "2017臺灣/香港見"
       url: "/2017臺灣香港見/"
+    contact:
+      name: "聯絡我們"
+      url: "/聯絡我們/"
