@@ -26,9 +26,6 @@ t:
     about:
       name: "About"
       url: "/about/"
-    itinerary:
-      name: "Itinerary"
-      url: "/itinerary/"
     thebigday:
       name: "The Big Day"
       url: "/the-big-day/"
@@ -47,6 +44,9 @@ t:
     rsvp:
       name: "R.S.V.P."
       url: "/rsvp/"
+    taiwantrip:
+      name: "Taiwan/Hong Kong 2017"
+      url: "/taiwan-hong-kong-2017/"
   zh:
     home:
       name: "首頁"
