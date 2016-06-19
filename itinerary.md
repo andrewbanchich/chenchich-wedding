@@ -4,9 +4,8 @@ title: Itinerary
 permalink: /itinerary/
 lang: English
 ref: itinerary
+featured-image: niagara-falls.jpg
 ---
-
-<img src="/images/niagara-falls.jpg" style="width: 100%; border-radius: 5px;">
 
 <h3>Friday, July 1<sup>st</sup>, 2016</h3>
 <ul>

@@ -4,9 +4,8 @@ title: R.S.V.P.
 permalink: /rsvp/
 lang: English
 ref: rsvp
+featured-image: kevin-guest-house-garden-2.jpg
 ---
-
-<img src="/images/kevin-guest-house-garden-2.jpg" style="width: 100%; border-radius: 5px;">
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 

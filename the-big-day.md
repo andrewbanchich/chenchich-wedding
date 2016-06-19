@@ -4,9 +4,8 @@ title: The Big Day
 permalink: /the-big-day/
 lang: English
 ref: thebigday
+featured-image: becker-farms.jpg
 ---
-
-<img src="/images/becker-farms.jpg" style="width: 100%; border-radius: 5px;">
 
 <h3>Ceremony &amp; Reception</h3>
 <strong>Friday, July 1<sup>st</sup>, 2016</strong>

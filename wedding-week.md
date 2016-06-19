@@ -4,9 +4,8 @@ title: Wedding Week
 permalink: /wedding-week/
 lang: English
 ref: weddingweek
+featured-image: kevin-guest-house-garden.jpg
 ---
-
-<img src="/images/kevin-guest-house-garden.jpg" style="width: 100%; border-radius: 5px;">
 
 Wedding Week
 

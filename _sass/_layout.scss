@@ -213,13 +213,30 @@
     }
 }
 
+
+.content-area {
+    margin-bottom: $spacing-unit;
+    margin-left: 280px;
+    margin-top: 50px;
+    width: auto;
+}
+
+.featured-image {
+        background-color: #ffffff;
+        margin: 0 auto;
+        width: 975px;
+}
+
 .post-content {
     background-color: #ffffff;
-    margin-bottom: $spacing-unit;
-    width: 975px;
+    padding: 50px 100px;
     margin: 0 auto;
-    margin-top: 50px;
+    width: 975px;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
 }
+
 .content {
     width: 1200px;
     max-width: 86%;

@@ -219,16 +219,27 @@ pre {
  * Custom: Moves sidebar left
  */
 .sidebar {
-    float: left;
     height: 100%;
     background-color: #ffffff;
     width: 200px;
     padding: 50px 40px;
-    margin-right: 480px;
     position: absolute;
     top: 0;
     left: 0;
+    bottom: 0;
     display: block;
+}
+
+.sidebar:before {
+    content: "";
+    display: block;
+    width: 280px;
+    background: #ffffff;
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 0;
 }
 
 .sidebar ul {

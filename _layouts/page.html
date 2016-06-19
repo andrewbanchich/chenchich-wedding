@@ -1,20 +1,19 @@
 ---
 layout: default
 ---
-<article class="post">
 
-    <header class="post-header">
+<div class="content-area">
 
-    </header>
-
-  <div class="post-content">
-
+<div class="featured-image">
     {% if page.featured-image %}
-    <img src="/images/{{ page.featured-image }}">
-    {% endif %}
+      <img src="/images/{{ page.featured-image }}" style="width: 100%;">
+      {% endif %}
 
+</div>
+
+  <article class="post-content">
       <h1 class="post-title">{{ page.title }}</h1>
     {{ content }}
-  </div>
-
 </article>
+
+  </div>
