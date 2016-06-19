@@ -29,16 +29,24 @@ t:
     itinerary:
       name: "Itinerary"
       url: "/itinerary/"
-  fr:
-    home:
-      name: "Accueil"
-      url: "/accueil/"
-    about:
-      name: "À propos"
-      url: "/a-propos/"
+    thebigday:
+      name: "The Big Day"
+      url: "/the-big-day/"
+    weddingparty:
+      name: "Wedding Party"
+      url: "/wedding-party/"
+    weddingweek:
+      name: "Wedding Week"
+      url: "/wedding-week/"
     itinerary:
-      name: "About"
-      url: "/about/"
+      name: "Itinerary"
+      url: "/itinerary/"
+    accommodations:
+      name: "Accommodations"
+      url: "/accommodations/"
+    rsvp:
+      name: "R.S.V.P."
+      url: "/rsvp/"
   zh:
     home:
       name: "首頁"
@@ -49,3 +57,21 @@ t:
     itinerary:
       name: "About"
       url: "/about/"
+    lorem:
+      name: "lorem"
+      url: "/lorem/"
+    lorem:
+      name: "lorem"
+      url: "/lorem/"
+    lorem:
+      name: "lorem"
+      url: "/lorem/"
+    lorem:
+      name: "lorem"
+      url: "/lorem/"
+    lorem:
+      name: "lorem"
+      url: "/lorem/"
+    lorem:
+      name: "lorem"
+      url: "/lorem/"
