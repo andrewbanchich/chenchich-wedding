@@ -14,12 +14,36 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
+
+<!-- Original nav menu
+          {% for my_page in site.pages %}
+            {% if my_page.title %}
+            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {% endif %}
+          {% endfor %}
+
+-->
+
+        {% for menu in site.t[page.lang] %}
+          <a href="{{ menu[1].url }}" class="page-link">{{ menu[1].name }}</a>
         {% endfor %}
-      </div>
+
+
+
+       </div>
+
+<!-- Multilingual code used from https://www.sylvaindurand.org/making-jekyll-multilingual/ -->
+      <ul style="list-style-type: none; display: block;">
+
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% for page in pages %}
+        <li style="display: inline;">
+          <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+
+
     </nav>
 
   </div>

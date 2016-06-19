@@ -2,6 +2,8 @@
 layout: page
 title: Contact Us
 permalink: /contact-us/
+lang: en
+ref: contact
 ---
 
 <form action="https://formspree.io/andrewbanchich@gmail.com"

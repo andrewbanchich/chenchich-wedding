@@ -2,6 +2,8 @@
 layout: page
 title: Itinerary
 permalink: /itinerary/
+lang: en
+ref: itinerary
 ---
 
 <img src="/images/niagara-falls.jpg" style="width: 100%; border-radius: 5px;">

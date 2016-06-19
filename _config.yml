@@ -15,3 +15,37 @@ url: "https://chenchich.us" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+
+# Multilingual config
+t:
+  en:
+    home:
+      name: "Home"
+      url: "/"
+    about:
+      name: "About"
+      url: "/about/"
+    itinerary:
+      name: "Itinerary"
+      url: "/itinerary/"
+  fr:
+    home:
+      name: "Accueil"
+      url: "/accueil/"
+    about:
+      name: "À propos"
+      url: "/a-propos/"
+    itinerary:
+      name: "About"
+      url: "/about/"
+  zh:
+    home:
+      name: "首頁"
+      url: "/首頁/"
+    about:
+      name: "关于"
+      url: "/关于/"
+    itinerary:
+      name: "About"
+      url: "/about/"

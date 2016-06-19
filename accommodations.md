@@ -2,6 +2,8 @@
 layout: page
 title: Accommodations
 permalink: /accommodations/
+lang: en
+ref: accommodations
 ---
 
 <img src="/images/accommodations.jpg" style="width: 100%; border-radius: 5px;">

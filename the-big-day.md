@@ -2,6 +2,8 @@
 layout: page
 title: The Big Day
 permalink: /the-big-day/
+lang: en
+ref: thebigday
 ---
 
 <img src="/images/becker-farms.jpg" style="width: 100%; border-radius: 5px;">

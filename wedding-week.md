@@ -2,6 +2,8 @@
 layout: page
 title: Wedding Week
 permalink: /wedding-week/
+lang: en
+ref: weddingweek
 ---
 
 <img src="/images/kevin-guest-house-garden.jpg" style="width: 100%; border-radius: 5px;">

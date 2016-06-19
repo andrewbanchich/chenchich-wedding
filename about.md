@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About Us
-permalink: /about-us/
+permalink: /about/
+lang: en
+ref: about
 ---
 
 <img src="/images/andrew-and-ju-yi-hiking.jpg" style="width: 100%; border-radius: 5px;">

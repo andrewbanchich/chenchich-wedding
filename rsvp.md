@@ -2,6 +2,8 @@
 layout: page
 title: R.S.V.P.
 permalink: /rsvp/
+lang: en
+ref: rsvp
 ---
 
 <img src="/images/kevin-guest-house-garden-2.jpg" style="width: 100%; border-radius: 5px;">

@@ -204,3 +204,11 @@ pre {
         }
     }
 }
+
+
+/**
+ * Multilingual menu font-weight
+ */
+.en:lang(en), .fr:lang(fr), .zh:lang(zh){
+    font-weight: bold;
+}

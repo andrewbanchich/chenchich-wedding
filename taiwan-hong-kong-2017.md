@@ -2,6 +2,8 @@
 layout: page
 title: Taiwan/Hong Kong 2017
 permalink: /taiwan-hong-kong-2017/
+lang: en
+ref: taiwantrip
 ---
 
 <img src="/images/ju-yi-taiwan.jpg" style="width: 100%; border-radius: 5px;">
