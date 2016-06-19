@@ -24,6 +24,7 @@
 
 -->
 
+<!-- Multilingual navigation menu -->
         {% for menu in site.t[page.lang] %}
           <a href="{{ menu[1].url }}" class="page-link">{{ menu[1].name }}</a>
         {% endfor %}
