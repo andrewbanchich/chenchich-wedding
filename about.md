@@ -4,9 +4,8 @@ title: About Us
 permalink: /about/
 lang: English
 ref: about
+featured-image: andrew-and-ju-yi-hiking.jpg
 ---
-
-<img src="/images/andrew-and-ju-yi-hiking.jpg" style="width: 100%; border-radius: 5px;">
 
 <h2>About Ju Yi</h2>
 
