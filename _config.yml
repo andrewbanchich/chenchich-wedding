@@ -52,26 +52,26 @@ t:
       name: "首頁"
       url: "/首頁/"
     about:
-      name: "关于"
-      url: "/关于/"
+      name: "關於我們"
+      url: "/關於我們/"
+    thebigday:
+      name: "囍宴當日"
+      url: "/囍宴當日/"
+    weddingparty:
+      name: "陪嫁團"
+      url: "/陪嫁團/"
+    weddingweek:
+      name: "甜蜜婚禮周"
+      url: "/甜蜜婚禮周/"
     itinerary:
-      name: "About"
-      url: "/about/"
-    lorem:
-      name: "lorem"
-      url: "/lorem/"
-    lorem:
-      name: "lorem"
-      url: "/lorem/"
-    lorem:
-      name: "lorem"
-      url: "/lorem/"
-    lorem:
-      name: "lorem"
-      url: "/lorem/"
-    lorem:
-      name: "lorem"
-      url: "/lorem/"
-    lorem:
-      name: "lorem"
-      url: "/lorem/"
+      name: "行程"
+      url: "/行程/"
+    accommodations:
+      name: "住宿"
+      url: "/住宿/"
+    rsvp:
+      name: "喜帖回函"
+      url: "/喜帖回函/"
+    taiwantrip:
+      name: "2017臺灣/香港見"
+      url: "/2017臺灣香港見/"
