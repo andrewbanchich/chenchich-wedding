@@ -13,10 +13,10 @@
 
       <div class="trigger">
 
-    <a class="site-title" href="{{ site.baseurl }}/"><img src="/images/circle-logo.png"></a>
+    <a class="site-logo" href="{{ site.baseurl }}/"><img src="/images/circle-logo.png"></a>
 
 <!-- Multilingual navigation menu -->
-        <ul>{% for menu in site.t[page.lang] %}
+        <ul class="navigation-menu">{% for menu in site.t[page.lang] %}
          <li><a href="{{ menu[1].url }}" class="page-link">{{ menu[1].name }}</a></li>
         {% endfor %}
         </ul>
@@ -25,7 +25,7 @@
        </div>
 
 <!-- Multilingual code used from https://www.sylvaindurand.org/making-jekyll-multilingual/ -->
-      <ul style="list-style-type: none;">
+      <ul style="list-style-type: none; line-height: 28px;">
 
       {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
       {% for page in pages %}

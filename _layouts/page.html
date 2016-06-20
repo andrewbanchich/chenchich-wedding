@@ -6,14 +6,16 @@ layout: default
 
 <div class="featured-image">
     {% if page.featured-image %}
-      <img src="/images/{{ page.featured-image }}" style="width: 100%;">
+      <img src="/images/{{ page.featured-image }}" style="width: 100%; border-radius: 5px 5px 0px 0px;">
       {% endif %}
 
 </div>
 
-  <article class="post-content">
+  <article class="post-content" style="border-radius: 0px 0px 5px 5px;"">
       <h1 class="post-title">{{ page.title }}</h1>
     {{ content }}
 </article>
+
+    {% include footer.html %}
 
   </div>

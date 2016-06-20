@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About Us
-permalink: /about/
+permalink: /about-us/
 lang: English
-ref: about
+ref: about-us
 featured-image: andrew-and-ju-yi-hiking.jpg
 ---
 

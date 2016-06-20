@@ -95,12 +95,12 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $brand-color;
     }
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
 
@@ -242,6 +242,12 @@ pre {
     left: 0;
 }
 
-.sidebar ul {
+
+.navigation-menu {
     list-style: none;
+    font-size: 16px;
+    line-height: 32px;
+    color: #333333;
+    text-transform: uppercase;
+    display: block;
 }

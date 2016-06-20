@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 lang: English
 ref: contact
-featured-image: 
+featured-image: kevin-guest-house-steps.jpg
 ---
 
 <form action="https://formspree.io/andrewbanchich@gmail.com"

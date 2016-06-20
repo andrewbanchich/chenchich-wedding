@@ -23,9 +23,9 @@ t:
     home:
       name: "Home"
       url: "/"
-    about:
-      name: "About"
-      url: "/about/"
+    about-us:
+      name: "About Us"
+      url: "/about-us/"
     thebigday:
       name: "The Big Day"
       url: "/the-big-day/"
@@ -54,7 +54,7 @@ t:
     home:
       name: "首頁"
       url: "/首頁/"
-    about:
+    about-us:
       name: "關於我們"
       url: "/關於我們/"
     thebigday:
