@@ -223,7 +223,7 @@ pre {
     background-color: #ffffff;
     width: 200px;
     padding: 50px 40px;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
@@ -246,8 +246,8 @@ pre {
 .navigation-menu {
     list-style: none;
     font-size: 16px;
+    text-transform: uppercase;
     line-height: 32px;
     color: #333333;
-    text-transform: uppercase;
     display: block;
 }

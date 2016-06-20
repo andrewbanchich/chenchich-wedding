@@ -20,8 +20,8 @@ markdown: kramdown
 # Multilingual config
 t:
   English:
-    home:
-      name: "Home"
+    hello:
+      name: "Hello!"
       url: "/"
     about-us:
       name: "About Us"
@@ -42,7 +42,7 @@ t:
       name: "Accommodations"
       url: "/accommodations/"
     rsvp:
-      name: "R.S.V.P."
+      name: "RSVP"
       url: "/rsvp/"
     taiwantrip:
       name: "Taiwan/Hong Kong 2017"
@@ -51,7 +51,7 @@ t:
       name: "Contact Us"
       url: "/contact-us/"
   中文 (台灣):
-    home:
+    hello:
       name: "首頁"
       url: "/首頁/"
     about-us:
