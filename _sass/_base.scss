@@ -219,16 +219,28 @@ pre {
 /**
  * Custom: Moves sidebar left
  */
+
+ @media screen and (max-width: 999px) {
 .sidebar {
-    height: 100%;
+    height: 50px;
     background-color: #ffffff;
-    width: 200px;
-    padding: 50px 40px;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
+    width: 100%;
+    position: static;
     display: block;
+}
+}
+
+@media screen and (min-width: 1000px) {
+.sidebar {
+   height: 100%;
+   background-color: #ffffff;
+   width: 200px;
+   padding: 50px 40px;
+   position: static;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   float: left;
 }
 
 .sidebar:before {
@@ -241,6 +253,8 @@ pre {
     top: 0;
     bottom: 0;
     left: 0;
+}
+
 }
 
 

@@ -50,7 +50,6 @@
     }
 
     @include media-query($on-palm) {
-        float:none;
         position: absolute;
         top: 9px;
         right: $spacing-unit / 2;
@@ -223,9 +222,8 @@
 
 .content-area {
     margin-bottom: $spacing-unit;
-    margin-left: 280px;
-    margin-top: 25px;
-    width: auto;
+    margin: 25px auto;
+    overflow:hidden;
 }
 
 .featured-image {
