@@ -220,12 +220,11 @@ pre {
  * Custom: Moves sidebar left
  */
 
- @media screen and (max-width: 999px) {
+@media screen and (max-width: 999px) {
 .sidebar {
     height: 50px;
     background-color: #ffffff;
     width: 100%;
-    position: static;
     display: block;
 }
 }
@@ -236,10 +235,6 @@ pre {
    background-color: #ffffff;
    width: 200px;
    padding: 50px 40px;
-   position: static;
-   top: 0;
-   left: 0;
-   bottom: 0;
    float: left;
 }
 
