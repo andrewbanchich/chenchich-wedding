@@ -1,7 +1,5 @@
 <div class="sidebar">
 
-
-
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg viewBox="0 0 18 15">
@@ -13,16 +11,13 @@
 
       <div class="trigger">
 
-    <a class="site-logo" href="{{ site.baseurl }}/"><img src="/images/circle-logo.png"></a>
+<a class="site-logo" href="{{ site.baseurl }}/"><img src="/images/circle-logo.png"></a>
 
 <!-- Multilingual navigation menu -->
         <ul class="navigation-menu">{% for menu in site.t[page.lang] %}
          <li><a href="{{ menu[1].url }}" class="page-link">{{ menu[1].name }}</a></li>
         {% endfor %}
         </ul>
-
-
-
 
 
 
@@ -43,7 +38,7 @@
       </ul>
 
        </div>
-       
+
     </nav>
 
 

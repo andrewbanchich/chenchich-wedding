@@ -222,10 +222,12 @@ pre {
 
 @media screen and (max-width: 999px) {
 .sidebar {
-    height: 50px;
+    height: 60px;
     background-color: #ffffff;
     width: 100%;
     display: block;
+    position: fixed;
+    top: 0;
 }
 }
 
