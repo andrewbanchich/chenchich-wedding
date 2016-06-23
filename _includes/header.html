@@ -22,15 +22,11 @@ function myFunction() {
 <!-- Multilingual navigation menu -->
         <ul class="navigation-menu">{% for menu in site.t[page.lang] %}
          <li><a href="{{ menu[1].url }}" class="page-link">{{ menu[1].name }}</a></li>
+         <li><a href="https://goo.gl/photos/XPNWksVuQadgqitq7">Engagement Photos</a></li>
+       <li><a href="http://chenchich.us/wedding-album/">Wedding Album</a></li>
         {% endfor %}
         </ul>
 
-
-
-       <ul class="navigation-menu" style="text-transform: capitalize;">
-           <li><a href="https://goo.gl/photos/XPNWksVuQadgqitq7">Engagement Photos</a></li>
-       <li><a href="http://chenchich.us/wedding-album/">Wedding Album</a></li>
-       </ul>
 
 <!-- Multilingual code used from https://www.sylvaindurand.org/making-jekyll-multilingual/ -->
       <ul style="list-style-type: none; line-height: 28px;">
