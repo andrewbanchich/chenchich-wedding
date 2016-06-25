@@ -58,6 +58,10 @@
         border-radius: 5px;
         text-align: right;
 
+        span.menu-icon {
+            cursor: pointer;
+        }
+
         .menu-icon {
             display: block;
             float: right;
@@ -75,11 +79,6 @@
                     fill: $grey-color-dark;
                 }
             }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
         }
 
         .page-link {

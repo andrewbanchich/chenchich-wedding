@@ -4,10 +4,19 @@ title: Wedding Party
 permalink: /wedding-party/
 lang: English
 ref: weddingparty
-featured-image: 
+featured-image:
 ---
 
 Wedding Party
+
+
+<table style="width: 100%;">
+<tbody>
+<td><img src="images/king-yau-chan.jpg"></td>
+<td></td>
+</tbody>
+</table>
+
 
 Father of the BrideKing Yau ChanKing Yau took up farming after retiring from his career in the textile industry. When King Yau first learned Ju Yi and Andrew were engaged, he planned to raise a goat, harvest the fiber, and make a cashmere sweater to endure the cold Buffalo weather. Thankfully, the wedding is in the summer. Now he is excited that this will be his first time visiting the United States.
 Father of the Bride
