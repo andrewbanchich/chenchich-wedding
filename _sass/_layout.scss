@@ -29,13 +29,15 @@
     float: left;
 }
 
+@media screen and (max-width:999px) {
+    .site-logo {
+        display: none;
+    }
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
-
-    .menu-icon {
-        display: none;
-    }
 
     .page-link {
         color: #333333;
@@ -93,6 +95,9 @@
     }
 }
 
+.menu-icon {
+    display: none;
+}
 
 
 /**
