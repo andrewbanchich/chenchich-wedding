@@ -116,7 +116,7 @@ featured-image:
 <dt><img src="/images/jan-hoffmeyer.png" style="width: 250px;"></dt>
 
 <dd>
-<span class="wedding-party-title">Groomsman<br/>Jan Hoffmeyer<span>
+<span class="wedding-party-title">Groomsman<br/>Jan Hoffmeyer</span>
 
 <p>Jan is a medical student from Germany. He met Andrew at Kevin Guest House, where he lived while researching cancer vaccines at Roswell Park Cancer Institute. He dominates at computer games. Ask him about his stein.</p>
 
