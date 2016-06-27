@@ -4,7 +4,6 @@ title: Wedding Party
 permalink: /wedding-party/
 lang: English
 ref: weddingparty
-featured-image:
 ---
 
 <div style="width: 100%;">
