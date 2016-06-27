@@ -122,4 +122,5 @@ ref: weddingparty
 </dd>
 
 </dl>
+<br style="clear: both;">
 </div>
