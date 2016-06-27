@@ -291,3 +291,25 @@ pre {
     text-align: left;
   }
 }
+
+dl.wedding-party {
+    float: left;
+    display: block;
+    margin-top: 25px;
+    text-align: center;
+    width: 50%;
+}
+
+dl.wedding-party img {
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+dl.wedding-party p {
+    padding: 25px;
+}
+
+.wedding-party-title {
+    font-weight: 700;
+    font-style: italic;
+}
