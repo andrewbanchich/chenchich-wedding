@@ -7,13 +7,55 @@ ref: weddingparty
 featured-image:
 ---
 
-Wedding Party
-
-
 <table style="width: 100%;">
 <tbody>
-<td><img src="images/king-yau-chan.jpg"></td>
-<td></td>
+<tr>
+<td style="width: 50%; text-align: center;"><figure>
+  <img src="images/king-yau-chan.jpg">
+  <figcaption>Father of the Bride<br/>King Yau Chan</figcaption>
+</figure></td>
+<td style="width: 50%; text-align: center;"><figure>
+  <img src="images/king-yau-chan.jpg">
+  <figcaption>Father of the Groom<br/>Thomas Banchich</figcaption>
+</figure></td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;"><figure>
+  <img src="images/king-yau-chan.jpg">
+  <figcaption>Mother of the Bride<br/>Li Chin Huang</figcaption>
+</figure></td>
+<td style="width: 50%; text-align: center;"><figure>
+  <img src="images/king-yau-chan.jpg">
+  <figcaption>Father of the Bride<br/>King Yau Chan</figcaption>
+</figure></td>
+</tr><tr>
+<td style="width: 50%; text-align: center;"><figure>
+  <img src="images/king-yau-chan.jpg">
+  <figcaption>Father of the Bride<br/>King Yau Chan</figcaption>
+</figure></td>
+<td style="width: 50%; text-align: center;"><figure>
+  <img src="images/king-yau-chan.jpg">
+  <figcaption>Father of the Bride<br/>King Yau Chan</figcaption>
+</figure></td>
+</tr><tr>
+<td style="width: 50%; text-align: center;"><figure>
+  <img src="images/king-yau-chan.jpg">
+  <figcaption>Father of the Bride<br/>King Yau Chan</figcaption>
+</figure></td>
+<td style="width: 50%; text-align: center;"><figure>
+  <img src="images/king-yau-chan.jpg">
+  <figcaption>Father of the Bride<br/>King Yau Chan</figcaption>
+</figure></td>
+</tr><tr>
+<td style="width: 50%; text-align: center;"><figure>
+  <img src="images/king-yau-chan.jpg">
+  <figcaption>Father of the Bride<br/>King Yau Chan</figcaption>
+</figure></td>
+<td style="width: 50%; text-align: center;"><figure>
+  <img src="images/king-yau-chan.jpg">
+  <figcaption>Father of the Bride<br/>King Yau Chan</figcaption>
+</figure></td>
+</tr>
 </tbody>
 </table>
 
