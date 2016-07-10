@@ -312,3 +312,18 @@ dl.wedding-party p {
     font-weight: 700;
     font-style: italic;
 }
+
+.photo-gallery, .photo-gallery li {
+	list-style: none;
+	padding: 0;
+    margin: 5px;
+}
+
+.photo-gallery li {
+	display: inline-block;
+	width: 45%;
+}
+
+.photo-gallery li img {
+	width: 100%;
+}

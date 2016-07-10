@@ -50,6 +50,9 @@ t:
     taiwantrip:
       name: "Taiwan/Hong Kong 2017"
       url: "/taiwan-hong-kong-2017/"
+    wedding-photos:
+      name: "Wedding Photos"
+      url: "/wedding-photos/"
     contact:
       name: "Contact Us"
       url: "/contact-us/"
@@ -81,6 +84,9 @@ t:
     taiwantrip:
       name: "2017臺灣/香港見"
       url: "/2017臺灣香港見/"
+    wedding-photos:
+      name: "???"
+      url: "/???/"
     contact:
       name: "聯絡我們"
       url: "/聯絡我們/"
