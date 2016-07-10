@@ -26,8 +26,7 @@
 
 .site-logo img {
     max-width: 200px;
-    display: block;
-    margin: auto;
+    margin-bottom: 25px;
 }
 
 @media screen and (max-width:999px) {
@@ -38,7 +37,6 @@
 
 .site-nav {
     float: left;
-    margin-top: 25px;
 
     .page-link {
         color: #333333;

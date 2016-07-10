@@ -236,8 +236,8 @@ pre {
 .sidebar {
    height: 100%;
    background-color: #ffffff;
-   width: 230px;
-   padding: 0px 25px;
+   width: 260px;
+   padding: 0px 10px;
    float: left;
 }
 
@@ -262,6 +262,8 @@ pre {
     line-height: 32px;
     color: #333333;
     display: block;
+    margin: 0px;
+    padding: 0px 30px;
 }
 
 /* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
