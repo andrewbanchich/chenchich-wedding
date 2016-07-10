@@ -36,14 +36,13 @@
 }
 
 .site-nav {
-    float: right;
-    line-height: 56px;
+    float: left;
 
     .page-link {
         color: #333333;
-	font-size: 14px;
-	font-weight: bold;
-        line-height: $base-line-height;
+	    font-size: 14px;
+	    font-weight: normal;
+        line-height: 1em;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
