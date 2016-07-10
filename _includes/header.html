@@ -24,7 +24,7 @@
         {% endfor %}
 
 <!-- Multilingual code used from https://www.sylvaindurand.org/making-jekyll-multilingual/ -->
-<br /><hr><br />
+<br /><hr color="#dddddd"><br />
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
         {% for page in pages %}
           <li>
