@@ -224,15 +224,40 @@
 .content-area {
     margin-bottom: $spacing-unit;
     margin: 50px auto;
-    overflow:hidden;
+    overflow: hidden;
+}
+
+@media screen and (max-width:999px) {
+  .content-area {
+      margin-bottom: $spacing-unit;
+      margin: 0px;
+  }
 }
 
 .featured-image {
-        background-color: #ffffff;
-        border-radius: 5px 5px 0px 0px;
         margin: 0 auto;
-        width: 975px;
-        max-width: 85%;
+        width: 976px;
+        max-width: 85%;;
+}
+
+.featured-image img {
+        border-radius: 5px 5px 0px 0px;
+}
+
+@media screen and (max-width:999px) {
+  .featured-image {
+          background-color: #ffffff;
+          border-radius: 0px;
+          margin: 0 auto;
+          width: 100%;
+          max-width: 100%;
+  }
+}
+
+@media screen and (max-width:999px) {
+  .featured-image img {
+          border-radius: 0px;
+  }
 }
 
 @media screen and (max-width: 999px) {
@@ -240,8 +265,7 @@
         background-color: #ffffff;
         padding: 25px;
         margin: 0 auto;
-        width: 975px;
-        max-width: 85%;
+        width: 100%;
         -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
         -moz-box-sizing: border-box;    /* Firefox, other Gecko */
         box-sizing: border-box;
