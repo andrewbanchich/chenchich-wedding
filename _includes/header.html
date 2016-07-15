@@ -21,7 +21,7 @@
                </span>
                {% for menu in site.t[page.lang] %}
          <li>
-             {% if page.url == menu[1].url %}<span style="color: #ff0000; font-size: 16px; position: relative; left: -20px;">&hearts;</span>{% else %}{% endif %}
+             {% if page.url == menu[1].url %}<span style="color: #ff0000; font-size: 16px; position: relative; left: -10px;">&hearts;</span>{% else %}{% endif %}
          <a href="{{ menu[1].url }}" class="page-link">{{ menu[1].name }}</a></li>
         {% endfor %}
 
