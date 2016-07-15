@@ -9,7 +9,7 @@
 title: Chenchich
 email: andrewbanchich@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the wedding website of Andrew and Ju Yi (soon to be) Banchich.
+  This is the wedding website of Andrew and Ju Yi Banchich.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 destination: ../../usr/share/nginx/html
