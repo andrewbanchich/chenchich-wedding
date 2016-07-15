@@ -9,7 +9,7 @@ featured-image: andrew-and-ju-yi-hiking.jpg
 
 <h2>About Ju Yi</h2>
 
-Ju Yi /rú è/ was born and raised in Taiwan. She came to Buffalo in 2011 to pursue her MBA. She currently works at Roswell Park Cancer Institute as a Business Operations Analyst. In her spare time, Ju Yi enjoys watching Microsoft Excel tutorial videos on YouTube, listening to Podcasts, jogging, and of course wedding planning.
+Ju Yi /<a href="/images/ju-yi-name.jpg">rú è</a>/ was born and raised in Taiwan. She came to Buffalo in 2011 to pursue her MBA. She currently works at Roswell Park Cancer Institute as a Business Operations Analyst. In her spare time, Ju Yi enjoys watching Microsoft Excel tutorial videos on YouTube, listening to Podcasts, jogging, and of course wedding planning.
 
 <h2>About Andrew</h2>
 
