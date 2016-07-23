@@ -34,12 +34,4 @@ images:
       link: /images/ju-yi-cape-house.jpg
 ---
 
-<ul class="photo-gallery">
-    {% for image in page.images %}
-        <li>
-            <a href="{{ image.link }}">
-                <img src="{{ image.image_path }}" alt="{{ image.title }}">
-            </a>
-        </li>
-    {% endfor %}
-</ul>
+
