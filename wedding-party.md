@@ -9,7 +9,7 @@ ref: weddingparty
 <div style="width: 100%;">
 <dl class="wedding-party">
 
-<dt><img src="/images/king-yau-chan.jpg" style="width: 250px;"></dt>
+<dt><img src="{{ site.url }}{{ site.baseurl }}/images/king-yau-chan.jpg" style="width: 250px;"></dt>
 
 <dd>
 <span class="wedding-party-title">Father of the Bride<br/>King Yau Chan</span>
@@ -20,7 +20,7 @@ ref: weddingparty
 </dl>
 <dl class="wedding-party">
 
-<dt><img src="/images/tom-banchich.jpg" style="width: 250px;"></dt>
+<dt><img src="{{ site.url }}{{ site.baseurl }}/images/tom-banchich.jpg" style="width: 250px;"></dt>
 
 <dd>
 <span class="wedding-party-title">Father of the Groom<br/>Thomas Banchich</span>
@@ -32,7 +32,7 @@ ref: weddingparty
 <br style="clear: both;">
 <dl class="wedding-party">
 
-<dt><img src="/images/li-chin-huang.jpg" style="width: 250px;"></dt>
+<dt><img src="{{ site.url }}{{ site.baseurl }}/images/li-chin-huang.jpg" style="width: 250px;"></dt>
 
 <dd>
 <span class="wedding-party-title">Mother of the Bride<br/>Li Chin Huang</span>
@@ -44,7 +44,7 @@ ref: weddingparty
 </dl>
 <dl class="wedding-party">
 
-<dt><img src="/images/sue-banchich.jpg" style="width: 250px;"></dt>
+<dt><img src="{{ site.url }}{{ site.baseurl }}/images/sue-banchich.jpg" style="width: 250px;"></dt>
 
 <dd>
 <span class="wedding-party-title">Mother of the Groom<br/>Sue Banchich</span>
@@ -57,7 +57,7 @@ ref: weddingparty
 <br style="clear: both;">
 <dl class="wedding-party">
 
-<dt><img src="/images/liz-penepent.jpg" style="width: 250px;"></dt>
+<dt><img src="{{ site.url }}{{ site.baseurl }}/images/liz-penepent.jpg" style="width: 250px;"></dt>
 
 <dd>
 <span class="wedding-party-title">Maid of Honor<br/>Liz Penepent</span>
@@ -69,7 +69,7 @@ ref: weddingparty
 </dl>
 <dl class="wedding-party">
 
-<dt><img src="/images/david-banchich.jpg" style="width: 250px;"></dt>
+<dt><img src="{{ site.url }}{{ site.baseurl }}/images/david-banchich.jpg" style="width: 250px;"></dt>
 
 <dd>
 <span class="wedding-party-title">Best Man<br/>David Banchich</span>
@@ -83,7 +83,7 @@ ref: weddingparty
 <br style="clear: both;">
 <dl class="wedding-party">
 
-<dt><img src="/images/hui-wen-chen.jpg" style="width: 250px;"></dt>
+<dt><img src="{{ site.url }}{{ site.baseurl }}/images/hui-wen-chen.jpg" style="width: 250px;"></dt>
 
 <dd>
 <span class="wedding-party-title">Bridesmaid<br/>Hui Wen Chen</span>
@@ -95,7 +95,7 @@ ref: weddingparty
 </dl>
 <dl class="wedding-party">
 
-<dt><img src="/images/robert-hayward.jpg" style="width: 250px;"></dt>
+<dt><img src="{{ site.url }}{{ site.baseurl }}/images/robert-hayward.jpg" style="width: 250px;"></dt>
 
 <dd>
 <span class="wedding-party-title">Groomsman<br/>Robert Hayward</span>
@@ -112,7 +112,7 @@ ref: weddingparty
 </dl>
 <dl class="wedding-party">
 
-<dt><img src="/images/jan-hoffmeyer.png" style="width: 250px;"></dt>
+<dt><img src="{{ site.url }}{{ site.baseurl }}/images/jan-hoffmeyer.png" style="width: 250px;"></dt>
 
 <dd>
 <span class="wedding-party-title">Groomsman<br/>Jan Hoffmeyer</span>
