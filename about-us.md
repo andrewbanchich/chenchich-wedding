@@ -21,7 +21,7 @@ The couple met at Andrew’s prior work place, Kevin Guest House, on March 4th, 
 
 <h2>The Proposal</h2>
 
-<img src="/images/ju-yi-cape-house.jpg" style="width: 100%; border-radius: 5px;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/ju-yi-cape-house.jpg" style="width: 100%; border-radius: 5px;">
 
 Within a year of knowing each other, Ju Yi and Andrew already knew they would be getting married. After a year it was impossible for them to even remember who brought it up first or when they began to talk about it.
 
