@@ -6,7 +6,7 @@ layout: default
 
 <div class="featured-image">
     {% if page.featured-image %}
-      <img src="/images/{{ page.featured-image }}">
+      <img src="{{ site.url }}(( site.baseurl }}/images/{{ page.featured-image }}">
       {% endif %}
 
 </div>
