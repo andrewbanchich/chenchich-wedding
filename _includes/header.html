@@ -22,7 +22,7 @@
                {% for menu in site.t[page.lang] %}
          <li>
              {% if page.url == menu[1].url %}<span style="color: #ff0000; font-size: 24px; position: absolute; left: 15px;">&hearts;</span>{% else %}{% endif %}
-         <a href="{{ menu[1].url }}" class="page-link">{{ menu[1].name }}</a></li>
+         <a href="{{ site.url }}(( site.baseurl }}{{ menu[1].url }}" class="page-link">{{ menu[1].name }}</a></li>
         {% endfor %}
 
 <!-- Multilingual code used from https://www.sylvaindurand.org/making-jekyll-multilingual/ -->
