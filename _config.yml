@@ -2,8 +2,8 @@
 title: Chenchich
 email: andrewbanchich@gmail.com
 description: This is the wedding website of Andrew and Ju Yi Banchich.
-baseurl: "/chenchich.us" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chenchi.ch" # the base hostname & protocol for your site
 destination: ../../usr/share/nginx/html
 github_username: andrewbanchich
 twitter_username: andrewbanchich
