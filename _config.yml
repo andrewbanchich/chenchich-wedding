@@ -1,0 +1,83 @@
+# Site settings
+title: Chenchich
+email: andrewbanchich@gmail.com
+description: This is the wedding website of Andrew and Ju Yi Banchich.
+baseurl: "/chenchich-wedding" # the subpath of your site, e.g. /blog
+url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+destination: ../../usr/share/nginx/html
+github_username: andrewbanchich
+twitter_username: andrewbanchich
+
+# Build settings
+markdown: kramdown
+
+# Multilingual config
+t:
+  English:
+    hello:
+      name: "Hello!"
+      url: "/"
+    about-us:
+      name: "About Us"
+      url: "/about-us/"
+    thebigday:
+      name: "The Big Day"
+      url: "/the-big-day/"
+    weddingparty:
+      name: "Wedding Party"
+      url: "/wedding-party/"
+    weddingweek:
+      name: "Wedding Week"
+      url: "/wedding-week/"
+    itinerary:
+      name: "Itinerary"
+      url: "/itinerary/"
+    accommodations:
+      name: "Accommodations"
+      url: "/accommodations/"
+    rsvp:
+      name: "RSVP"
+      url: "/rsvp/"
+    taiwantrip:
+      name: "Taiwan/Hong Kong 2017"
+      url: "/taiwan-hong-kong-2017/"
+    wedding-photos:
+      name: "Wedding Photos"
+      url: "/wedding-photos/"
+    contact:
+      name: "Contact Us"
+      url: "/contact-us/"
+  中文 (台灣):
+    hello:
+      name: "首頁"
+      url: "/首頁/"
+    about-us:
+      name: "關於我們"
+      url: "/關於我們/"
+    thebigday:
+      name: "囍宴當日"
+      url: "/囍宴當日/"
+    weddingparty:
+      name: "陪嫁團"
+      url: "/陪嫁團/"
+    weddingweek:
+      name: "甜蜜婚禮周"
+      url: "/甜蜜婚禮周/"
+    itinerary:
+      name: "行程"
+      url: "/行程/"
+    accommodations:
+      name: "住宿"
+      url: "/住宿/"
+    rsvp:
+      name: "喜帖回函"
+      url: "/喜帖回函/"
+    taiwantrip:
+      name: "2017臺灣/香港見"
+      url: "/2017臺灣香港見/"
+    wedding-photos:
+      name: "???"
+      url: "/???/"
+    contact:
+      name: "聯絡我們"
+      url: "/聯絡我們/"

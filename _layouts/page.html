@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="content-area">
+
+<div class="featured-image">
+    {% if page.featured-image %}
+      <img src="{{ site.url }}{{ site.baseurl }}/images/{{ page.featured-image }}">
+      {% endif %}
+
+</div>
+
+  <article class="post-content" style="border-radius: 0px 0px 5px 5px;">
+      <h1 class="post-title">{{ page.title }}</h1>
+    {{ content }}
+</article>
+
+    {% include footer.html %}
+
+  </div>
